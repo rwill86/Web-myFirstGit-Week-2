@@ -1,4 +1,4 @@
-console.log("Hello World");
+console.log("I cuased a merge conflict.");
 //adding function
 function adding (a, b){
 	var result = a + b;
